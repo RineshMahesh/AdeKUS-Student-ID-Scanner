@@ -78,7 +78,7 @@ namespace Shutter_App
         {
             await CrossMedia.Current.Initialize(); 
 
-            string serverIP = /*"10.38.94.120"*/ "192.168.100.27";
+            string serverIP = "10.38.94.120"*;
             int serverPort = 57799;
 
             try
