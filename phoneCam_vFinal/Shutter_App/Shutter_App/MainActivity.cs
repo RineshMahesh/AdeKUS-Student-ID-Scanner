@@ -47,7 +47,7 @@ namespace Shutter_App
 
             client = new TcpClient();
 
-            string serverIP = "192.168.100.27"/*"10.38.94.120"*/; //IP addressen van de Wi-Fi's waarop de android app getest werd
+            string serverIP = "10.38.94.120"; //IP addressen van de Wi-Fi's waarop de android app getest werd
             int serverPort = 57799; //port number
 
             try
