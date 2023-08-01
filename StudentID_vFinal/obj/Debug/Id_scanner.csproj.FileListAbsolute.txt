@@ -1,0 +1,841 @@
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\bin\Debug\main2.py
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\bin\Debug\Id_scanner.exe.config
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\bin\Debug\Id_scanner.exe
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\bin\Debug\Id_scanner.pdb
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\bin\Debug\Alternet.Common.Python.v8.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\bin\Debug\Alternet.Common.v8.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\bin\Debug\Alternet.Scripter.Common.v8.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\bin\Debug\Alternet.Scripter.IronPython.v8.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\bin\Debug\IronPython.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\bin\Debug\IronPython.Modules.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\bin\Debug\IronPython.SQLite.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\bin\Debug\IronPython.Wpf.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\bin\Debug\Microsoft.Scripting.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\bin\Debug\Python.Deployment.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\bin\Debug\Python.Included.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\bin\Debug\Python.Runtime.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\bin\Debug\System.Buffers.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\bin\Debug\System.Memory.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\bin\Debug\Alternet.Common.Python.v8.xml
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\bin\Debug\Alternet.Common.v8.xml
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\bin\Debug\Alternet.Scripter.Common.v8.xml
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\bin\Debug\Alternet.Scripter.IronPython.v8.xml
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\bin\Debug\IronPython.xml
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\bin\Debug\IronPython.Modules.xml
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\bin\Debug\IronPython.SQLite.xml
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\bin\Debug\IronPython.Wpf.xml
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\bin\Debug\Microsoft.Scripting.xml
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\bin\Debug\Python.Runtime.xml
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\bin\Debug\System.Buffers.xml
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\bin\Debug\System.Memory.xml
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\bin\Debug\de\Alternet.Common.v8.resources.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\bin\Debug\en\Alternet.Common.v8.resources.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\bin\Debug\es\Alternet.Common.v8.resources.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\bin\Debug\fr\Alternet.Common.v8.resources.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\bin\Debug\ru\Alternet.Common.v8.resources.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\bin\Debug\uk\Alternet.Common.v8.resources.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\obj\Debug\Id_scanner.csproj.AssemblyReference.cache
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\obj\Debug\Id_scanner.csproj.SuggestedBindingRedirects.cache
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\obj\Debug\Id_scanner.exe.config
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\obj\Debug\Id_scanner.Login.resources
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\obj\Debug\Id_scanner.Properties.Resources.resources
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\obj\Debug\Id_scanner.UserInterface.resources
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\obj\Debug\Id_scanner.csproj.GenerateResource.cache
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\obj\Debug\Id_scanner.csproj.CoreCompileInputs.cache
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\obj\Debug\Id_scanner.csproj.CopyComplete
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\obj\Debug\Id_scanner.exe
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner\obj\Debug\Id_scanner.pdb
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\bin\Debug\Id_scanner.exe.config
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\bin\Debug\Id_scanner.exe
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\bin\Debug\Id_scanner.pdb
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\bin\Debug\Alternet.Common.Python.v8.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\bin\Debug\Alternet.Common.v8.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\bin\Debug\Alternet.Scripter.Common.v8.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\bin\Debug\Alternet.Scripter.IronPython.v8.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\bin\Debug\IronPython.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\bin\Debug\IronPython.Modules.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\bin\Debug\IronPython.SQLite.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\bin\Debug\IronPython.Wpf.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\bin\Debug\Microsoft.Scripting.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\bin\Debug\Python.Deployment.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\bin\Debug\Python.Included.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\bin\Debug\Python.Runtime.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\bin\Debug\System.Buffers.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\bin\Debug\System.Memory.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\bin\Debug\Alternet.Common.Python.v8.xml
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\bin\Debug\Alternet.Common.v8.xml
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\bin\Debug\Alternet.Scripter.Common.v8.xml
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\bin\Debug\Alternet.Scripter.IronPython.v8.xml
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\bin\Debug\IronPython.xml
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\bin\Debug\IronPython.Modules.xml
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\bin\Debug\IronPython.SQLite.xml
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\bin\Debug\IronPython.Wpf.xml
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\bin\Debug\Microsoft.Scripting.xml
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\bin\Debug\Python.Runtime.xml
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\bin\Debug\System.Buffers.xml
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\bin\Debug\System.Memory.xml
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\bin\Debug\de\Alternet.Common.v8.resources.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\bin\Debug\en\Alternet.Common.v8.resources.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\bin\Debug\es\Alternet.Common.v8.resources.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\bin\Debug\fr\Alternet.Common.v8.resources.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\bin\Debug\ru\Alternet.Common.v8.resources.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\bin\Debug\uk\Alternet.Common.v8.resources.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\obj\Debug\Id_scanner.csproj.AssemblyReference.cache
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\obj\Debug\Id_scanner.csproj.SuggestedBindingRedirects.cache
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\obj\Debug\Id_scanner.exe.config
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\obj\Debug\Id_scanner.Login.resources
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\obj\Debug\Id_scanner.Properties.Resources.resources
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\obj\Debug\Id_scanner.UserInterface.resources
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\obj\Debug\Id_scanner.csproj.GenerateResource.cache
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\obj\Debug\Id_scanner.csproj.CoreCompileInputs.cache
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\obj\Debug\Id_scanner.csproj.CopyComplete
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\obj\Debug\Id_scanner.exe
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\Id_scanner - Copy\obj\Debug\Id_scanner.pdb
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\obj\Debug\Id_scanner.csproj.AssemblyReference.cache
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\obj\Debug\Id_scanner.csproj.SuggestedBindingRedirects.cache
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\obj\Debug\Id_scanner.exe.config
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\obj\Debug\Id_scanner.Login.resources
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\obj\Debug\Id_scanner.Properties.Resources.resources
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\obj\Debug\Id_scanner.UserInterface.resources
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\obj\Debug\Id_scanner.csproj.GenerateResource.cache
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\obj\Debug\Id_scanner.csproj.CoreCompileInputs.cache
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\bin\Debug\Id_scanner.exe.config
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\bin\Debug\Id_scanner.exe
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\bin\Debug\Id_scanner.pdb
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\bin\Debug\Alternet.Common.Python.v9.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\bin\Debug\Alternet.Common.v9.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\bin\Debug\Alternet.Scripter.Common.v9.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\bin\Debug\Alternet.Scripter.IronPython.v9.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\bin\Debug\IronPython.SQLite.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\bin\Debug\IronPython.Wpf.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\bin\Debug\Microsoft.Scripting.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\bin\Debug\Python.Deployment.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\bin\Debug\Python.Included.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\bin\Debug\Python.Runtime.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\bin\Debug\System.Buffers.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\bin\Debug\System.Memory.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\bin\Debug\IronPython.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\bin\Debug\Alternet.Common.Python.v9.xml
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\bin\Debug\Alternet.Common.v9.xml
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\bin\Debug\Alternet.Scripter.Common.v9.xml
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\bin\Debug\Alternet.Scripter.IronPython.v9.xml
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\bin\Debug\IronPython.SQLite.xml
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\bin\Debug\IronPython.Wpf.xml
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\bin\Debug\Microsoft.Scripting.xml
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\bin\Debug\System.Buffers.xml
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\bin\Debug\System.Memory.xml
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\bin\Debug\IronPython.xml
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\bin\Debug\de\Alternet.Common.v9.resources.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\bin\Debug\en\Alternet.Common.v9.resources.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\bin\Debug\es\Alternet.Common.v9.resources.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\bin\Debug\fr\Alternet.Common.v9.resources.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\bin\Debug\ru\Alternet.Common.v9.resources.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\bin\Debug\uk\Alternet.Common.v9.resources.dll
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\obj\Debug\Id_scanner.csproj.CopyComplete
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\obj\Debug\Id_scanner.exe
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\obj\Debug\Id_scanner.pdb
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\bin\Debug\Python.Runtime.pdb
+C:\Users\rines\OneDrive\Documents\Visual Studio 2022\studentenpas scanner\bin\Debug\Python.Runtime.xml
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\runtimes\win-x64\native\eng.base.traineddata
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\runtimes\win-x64\native\eng.best.traineddata
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\runtimes\win-x64\native\eng.fast.traineddata
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\runtimes\win-x64\native\eng.user-patterns
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\runtimes\win-x64\native\eng.user-words
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\runtimes\win-x64\native\IronPdfInterop.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\runtimes\win-x64\native\liblept-5.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\runtimes\win-x64\native\libtesseract-5.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\runtimes\win-x64\native\osd.traineddata
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\runtimes\win-x64\native\pdf.ttf
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\runtimes\win-x64\native\pdf.ttx
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\runtimes\win-x64\native\Tesseract.Native.deployment.json
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\runtimes\win-x86\native\eng.base.traineddata
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\runtimes\win-x86\native\eng.best.traineddata
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\runtimes\win-x86\native\eng.fast.traineddata
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\runtimes\win-x86\native\eng.user-patterns
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\runtimes\win-x86\native\eng.user-words
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\runtimes\win-x86\native\IronPdfInterop.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\runtimes\win-x86\native\liblept-5.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\runtimes\win-x86\native\libtesseract-5.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\runtimes\win-x86\native\osd.traineddata
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\runtimes\win-x86\native\pdf.ttf
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\runtimes\win-x86\native\pdf.ttx
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\runtimes\win-x86\native\Tesseract.Native.deployment.json
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\tessdata\configs\config.cfg
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\tessdata\eng.traineddata
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\tessdata\equ.traineddata
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\tessdata\osd.traineddata
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\tessdata\pdf.ttf
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\tessdata\pdf.ttx
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\x86\leptonica-1.82.0.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\x86\tesseract50.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\x64\leptonica-1.82.0.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\x64\tesseract50.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\x64\tesseract.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\x86\Tesseract.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\Studentenpas OCR Systeem.exe.config
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\Studentenpas OCR Systeem.exe
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\Studentenpas OCR Systeem.pdb
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\BitMiracle.LibTiff.NET.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\IronOcr.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\IronSoftware.Drawing.Common.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\Microsoft.Dynamic.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\Microsoft.Scripting.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\Patagames.Ocr.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\SixLabors.Fonts.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\SixLabors.ImageSharp.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\SixLabors.ImageSharp.Drawing.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\System.Buffers.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\System.Memory.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\System.Numerics.Vectors.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\System.ValueTuple.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\Tesseract.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\BitMiracle.LibTiff.NET.xml
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\IronOcr.xml
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\IronSoftware.Drawing.Common.pdb
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\IronSoftware.Drawing.Common.xml
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\Microsoft.Dynamic.xml
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\Microsoft.Scripting.xml
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\Patagames.Ocr.xml
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\SixLabors.ImageSharp.xml
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\System.Buffers.xml
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\System.Memory.xml
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\System.Numerics.Vectors.xml
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\System.ValueTuple.xml
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\obj\Debug\Id_scanner.csproj.AssemblyReference.cache
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\obj\Debug\Id_scanner.csproj.SuggestedBindingRedirects.cache
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\obj\Debug\Id_scanner.Login.resources
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\obj\Debug\Id_scanner.Properties.Resources.resources
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\obj\Debug\Id_scanner.UserInterface.resources
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\obj\Debug\Id_scanner.csproj.GenerateResource.cache
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\obj\Debug\Id_scanner.csproj.CoreCompileInputs.cache
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\obj\Debug\Id_scanner.csproj.CopyComplete
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\obj\Debug\Studentenpas OCR Systeem.exe
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\obj\Debug\Studentenpas OCR Systeem.pdb
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\Emgu.CV.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\System.Drawing.Common.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\Emgu.CV.xml
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\System.Drawing.Common.xml
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\Emgu.CV.Bitmap.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\Emgu.CV.Bitmap.xml
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\OcrData\Dutch.ocrdata
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\runtimes\win-x64\native\eng.base.traineddata
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\runtimes\win-x64\native\eng.best.traineddata
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\runtimes\win-x64\native\eng.fast.traineddata
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\runtimes\win-x64\native\eng.user-patterns
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\runtimes\win-x64\native\eng.user-words
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\runtimes\win-x64\native\IronPdfInterop.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\runtimes\win-x64\native\liblept-5.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\runtimes\win-x64\native\libtesseract-5.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\runtimes\win-x64\native\osd.traineddata
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\runtimes\win-x64\native\pdf.ttf
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\runtimes\win-x64\native\pdf.ttx
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\runtimes\win-x64\native\Tesseract.Native.deployment.json
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\runtimes\win-x86\native\eng.base.traineddata
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\runtimes\win-x86\native\eng.best.traineddata
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\runtimes\win-x86\native\eng.fast.traineddata
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\runtimes\win-x86\native\eng.user-patterns
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\runtimes\win-x86\native\eng.user-words
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\runtimes\win-x86\native\IronPdfInterop.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\runtimes\win-x86\native\liblept-5.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\runtimes\win-x86\native\libtesseract-5.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\runtimes\win-x86\native\osd.traineddata
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\runtimes\win-x86\native\pdf.ttf
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\runtimes\win-x86\native\pdf.ttx
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\runtimes\win-x86\native\Tesseract.Native.deployment.json
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\tessdata\configs\config.cfg
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\tessdata\eng.traineddata
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\tessdata\equ.traineddata
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\tessdata\osd.traineddata
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\tessdata\pdf.ttf
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\tessdata\pdf.ttx
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\x86\leptonica-1.82.0.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\x86\tesseract50.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\x64\leptonica-1.82.0.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\x64\tesseract50.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\x64\tesseract.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\x86\Tesseract.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\OcrData\Dutch.ocrdata
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\Studentenpas OCR Systeem.exe.config
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\Studentenpas OCR Systeem.exe
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\Studentenpas OCR Systeem.pdb
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\BitMiracle.LibTiff.NET.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\Emgu.CV.Bitmap.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\Emgu.CV.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\IronOcr.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\IronSoftware.Drawing.Common.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\Microsoft.Dynamic.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\Microsoft.Scripting.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\Patagames.Ocr.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\SixLabors.Fonts.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\SixLabors.ImageSharp.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\SixLabors.ImageSharp.Drawing.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\System.Buffers.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\System.Drawing.Common.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\System.Memory.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\System.Numerics.Vectors.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\System.ValueTuple.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\Tesseract.dll
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\BitMiracle.LibTiff.NET.xml
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\Emgu.CV.xml
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\Emgu.CV.Bitmap.xml
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\IronOcr.xml
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\IronSoftware.Drawing.Common.pdb
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\IronSoftware.Drawing.Common.xml
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\Microsoft.Dynamic.xml
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\Microsoft.Scripting.xml
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\Patagames.Ocr.xml
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\SixLabors.ImageSharp.xml
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\System.Buffers.xml
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\System.Drawing.Common.xml
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\System.Memory.xml
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\System.Numerics.Vectors.xml
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\bin\Debug\System.ValueTuple.xml
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\obj\Debug\Id_scanner.csproj.AssemblyReference.cache
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\obj\Debug\Id_scanner.csproj.SuggestedBindingRedirects.cache
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\obj\Debug\Id_scanner.Login.resources
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\obj\Debug\Id_scanner.Properties.Resources.resources
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\obj\Debug\Id_scanner.UserInterface.resources
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\obj\Debug\Id_scanner.csproj.GenerateResource.cache
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\obj\Debug\Id_scanner.csproj.CoreCompileInputs.cache
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\obj\Debug\Id_scanner.csproj.CopyComplete
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\obj\Debug\Studentenpas OCR Systeem.exe
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\obj\Debug\Studentenpas OCR Systeem.pdb
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner\obj\Debug\Id_scanner.Splash_Screen.resources
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\obj\Debug\Id_scanner.Splash_Screen.resources
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\tessdata\eng.user-patterns
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\tessdata\eng.user-words
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\tessdata\nld.traineddata
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\tessdata\jaxb-api-2.3.1.jar
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\tessdata\piccolo2d-core-3.0.1.jar
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\tessdata\piccolo2d-extras-3.0.1.jar
+C:\Mijn Folder\Visual Studio 2022\studentenpas scanner - Copy\bin\Debug\tessdata\ScrollView.jar
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\Studentenpas OCR Systeem.exe
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\eng.base.traineddata
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\eng.best.traineddata
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\eng.fast.traineddata
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\eng.user-patterns
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\eng.user-words
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\IronPdfInterop.dll
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\liblept-5.dll
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\libtesseract-5.dll
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\osd.traineddata
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\pdf.ttf
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\pdf.ttx
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\Tesseract.Native.deployment.json
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\eng.base.traineddata
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\eng.best.traineddata
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\eng.fast.traineddata
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\eng.user-patterns
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\eng.user-words
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\IronPdfInterop.dll
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\liblept-5.dll
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\libtesseract-5.dll
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\osd.traineddata
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\pdf.ttf
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\pdf.ttx
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\Tesseract.Native.deployment.json
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\x86\leptonica-1.82.0.dll
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\x86\tesseract50.dll
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\x64\leptonica-1.82.0.dll
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\x64\tesseract50.dll
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\x64\tesseract.dll
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\x86\Tesseract.dll
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\tessdata\configs\config.cfg
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\tessdata\eng.traineddata
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\tessdata\equ.traineddata
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\tessdata\osd.traineddata
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\tessdata\pdf.ttf
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\tessdata\pdf.ttx
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\OcrData\Dutch.ocrdata
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\tessdata\eng.user-patterns
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\tessdata\eng.user-words
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\tessdata\nld.traineddata
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\tessdata\jaxb-api-2.3.1.jar
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\tessdata\piccolo2d-core-3.0.1.jar
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\tessdata\piccolo2d-extras-3.0.1.jar
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\tessdata\ScrollView.jar
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\Studentenpas OCR Systeem.exe.config
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\BitMiracle.LibTiff.NET.dll
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\Emgu.CV.Bitmap.dll
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\Emgu.CV.dll
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\IronOcr.dll
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\IronSoftware.Drawing.Common.dll
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\Microsoft.Dynamic.dll
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\Microsoft.Scripting.dll
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\Patagames.Ocr.dll
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\SixLabors.Fonts.dll
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\SixLabors.ImageSharp.dll
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\SixLabors.ImageSharp.Drawing.dll
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\System.Buffers.dll
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\System.Drawing.Common.dll
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\System.Memory.dll
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\System.Numerics.Vectors.dll
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\System.ValueTuple.dll
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\Tesseract.dll
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\BitMiracle.LibTiff.NET.xml
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\Emgu.CV.xml
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\Emgu.CV.Bitmap.xml
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\IronOcr.xml
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\IronSoftware.Drawing.Common.pdb
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\IronSoftware.Drawing.Common.xml
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\Microsoft.Dynamic.xml
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\Microsoft.Scripting.xml
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\Patagames.Ocr.xml
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\SixLabors.ImageSharp.xml
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\System.Buffers.xml
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\System.Drawing.Common.xml
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\System.Memory.xml
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\System.Numerics.Vectors.xml
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\System.ValueTuple.xml
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\obj\Debug\Id_scanner.csproj.AssemblyReference.cache
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\obj\Debug\Id_scanner.csproj.SuggestedBindingRedirects.cache
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\obj\Debug\Id_scanner.Login.resources
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\obj\Debug\Id_scanner.Properties.Resources.resources
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\obj\Debug\Id_scanner.Splash_Screen.resources
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\obj\Debug\Id_scanner.UserInterface.resources
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\obj\Debug\Id_scanner.csproj.GenerateResource.cache
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\obj\Debug\Id_scanner.csproj.CoreCompileInputs.cache
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\obj\Debug\Id_scanner.csproj.CopyComplete
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\obj\Debug\Studentenpas OCR Systeem.exe
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\obj\Debug\Studentenpas OCR Systeem.pdb
+C:\IDScanner1\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\Studentenpas OCR Systeem.pdb
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\eng.base.traineddata
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\eng.best.traineddata
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\eng.fast.traineddata
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\eng.user-patterns
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\eng.user-words
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\IronPdfInterop.dll
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\liblept-5.dll
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\libtesseract-5.dll
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\osd.traineddata
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\pdf.ttf
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\pdf.ttx
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\Tesseract.Native.deployment.json
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\eng.base.traineddata
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\eng.best.traineddata
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\eng.fast.traineddata
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\eng.user-patterns
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\eng.user-words
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\IronPdfInterop.dll
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\liblept-5.dll
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\libtesseract-5.dll
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\osd.traineddata
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\pdf.ttf
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\pdf.ttx
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\Tesseract.Native.deployment.json
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\x86\leptonica-1.82.0.dll
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\x86\tesseract50.dll
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\x64\leptonica-1.82.0.dll
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\x64\tesseract50.dll
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\x64\tesseract.dll
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\x86\Tesseract.dll
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\tessdata\configs\config.cfg
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\tessdata\eng.traineddata
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\tessdata\equ.traineddata
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\tessdata\osd.traineddata
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\tessdata\pdf.ttf
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\tessdata\pdf.ttx
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\OcrData\Dutch.ocrdata
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\tessdata\eng.user-patterns
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\tessdata\eng.user-words
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\tessdata\nld.traineddata
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\tessdata\jaxb-api-2.3.1.jar
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\tessdata\piccolo2d-core-3.0.1.jar
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\tessdata\piccolo2d-extras-3.0.1.jar
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\tessdata\ScrollView.jar
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\Studentenpas OCR Systeem.exe.config
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\Studentenpas OCR Systeem.exe
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\Studentenpas OCR Systeem.pdb
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\BitMiracle.LibTiff.NET.dll
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\Emgu.CV.Bitmap.dll
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\Emgu.CV.dll
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\IronOcr.dll
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\IronSoftware.Drawing.Common.dll
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\Microsoft.Dynamic.dll
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\Microsoft.Scripting.dll
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\Patagames.Ocr.dll
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\SixLabors.Fonts.dll
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\SixLabors.ImageSharp.dll
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\SixLabors.ImageSharp.Drawing.dll
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\System.Buffers.dll
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\System.Drawing.Common.dll
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\System.Memory.dll
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\System.Numerics.Vectors.dll
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\System.ValueTuple.dll
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\Tesseract.dll
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\BitMiracle.LibTiff.NET.xml
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\Emgu.CV.xml
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\Emgu.CV.Bitmap.xml
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\IronOcr.xml
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\IronSoftware.Drawing.Common.pdb
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\IronSoftware.Drawing.Common.xml
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\Microsoft.Dynamic.xml
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\Microsoft.Scripting.xml
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\Patagames.Ocr.xml
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\SixLabors.ImageSharp.xml
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\System.Buffers.xml
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\System.Drawing.Common.xml
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\System.Memory.xml
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\System.Numerics.Vectors.xml
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\bin\Debug\System.ValueTuple.xml
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\obj\Debug\Id_scanner.csproj.AssemblyReference.cache
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\obj\Debug\Id_scanner.csproj.SuggestedBindingRedirects.cache
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\obj\Debug\Id_scanner.Login.resources
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\obj\Debug\Id_scanner.Properties.Resources.resources
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\obj\Debug\Id_scanner.Splash_Screen.resources
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\obj\Debug\Id_scanner.UserInterface.resources
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\obj\Debug\Id_scanner.csproj.GenerateResource.cache
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\obj\Debug\Id_scanner.csproj.CoreCompileInputs.cache
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\obj\Debug\Id_scanner.csproj.CopyComplete
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\obj\Debug\Studentenpas OCR Systeem.exe
+C:\ID-Scanner (AdeKUS)\studentenpas scanner Official - Copy\studentenpas scanner Official - Copy\obj\Debug\Studentenpas OCR Systeem.pdb
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\eng.base.traineddata
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\eng.best.traineddata
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\eng.fast.traineddata
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\eng.user-patterns
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\eng.user-words
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\IronPdfInterop.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\liblept-5.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\libtesseract-5.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\osd.traineddata
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\pdf.ttf
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\pdf.ttx
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\Tesseract.Native.deployment.json
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\eng.base.traineddata
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\eng.best.traineddata
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\eng.fast.traineddata
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\eng.user-patterns
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\eng.user-words
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\IronPdfInterop.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\liblept-5.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\libtesseract-5.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\osd.traineddata
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\pdf.ttf
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\pdf.ttx
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\Tesseract.Native.deployment.json
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\x86\leptonica-1.82.0.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\x86\tesseract50.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\x64\leptonica-1.82.0.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\x64\tesseract50.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\x64\tesseract.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\x86\Tesseract.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\tessdata\configs\config.cfg
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\tessdata\eng.traineddata
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\tessdata\equ.traineddata
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\tessdata\osd.traineddata
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\tessdata\pdf.ttf
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\tessdata\pdf.ttx
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\OcrData\Dutch.ocrdata
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\tessdata\eng.user-patterns
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\tessdata\eng.user-words
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\tessdata\nld.traineddata
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\tessdata\jaxb-api-2.3.1.jar
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\tessdata\piccolo2d-core-3.0.1.jar
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\tessdata\piccolo2d-extras-3.0.1.jar
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\tessdata\ScrollView.jar
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\Studentenpas OCR Systeem.exe.config
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\Studentenpas OCR Systeem.exe
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\Studentenpas OCR Systeem.pdb
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\BitMiracle.LibTiff.NET.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\Emgu.CV.Bitmap.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\Emgu.CV.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\IronOcr.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\IronSoftware.Drawing.Common.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\Microsoft.Dynamic.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\Microsoft.Scripting.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\Patagames.Ocr.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\SixLabors.Fonts.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\SixLabors.ImageSharp.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\SixLabors.ImageSharp.Drawing.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\System.Buffers.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\System.Drawing.Common.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\System.Memory.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\System.Numerics.Vectors.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\System.ValueTuple.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\Tesseract.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\BitMiracle.LibTiff.NET.xml
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\Emgu.CV.xml
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\Emgu.CV.Bitmap.xml
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\IronOcr.xml
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\IronSoftware.Drawing.Common.pdb
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\IronSoftware.Drawing.Common.xml
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\Microsoft.Dynamic.xml
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\Microsoft.Scripting.xml
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\Patagames.Ocr.xml
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\SixLabors.ImageSharp.xml
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\System.Buffers.xml
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\System.Drawing.Common.xml
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\System.Memory.xml
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\System.Numerics.Vectors.xml
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\bin\Debug\System.ValueTuple.xml
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\obj\Debug\Id_scanner.csproj.AssemblyReference.cache
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\obj\Debug\Id_scanner.csproj.SuggestedBindingRedirects.cache
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\obj\Debug\Id_scanner.Login.resources
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\obj\Debug\Id_scanner.Properties.Resources.resources
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\obj\Debug\Id_scanner.Splash_Screen.resources
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\obj\Debug\Id_scanner.UserInterface.resources
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\obj\Debug\Id_scanner.csproj.GenerateResource.cache
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\obj\Debug\Id_scanner.csproj.CoreCompileInputs.cache
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\obj\Debug\Id_scanner.csproj.CopyComplete
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\obj\Debug\Studentenpas OCR Systeem.exe
+C:\ID-Scanner (AdeKUS)\studentIDscanner (New)\studentenpas scanner Official - Copy\obj\Debug\Studentenpas OCR Systeem.pdb
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\eng.base.traineddata
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\eng.best.traineddata
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\eng.fast.traineddata
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\eng.user-patterns
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\eng.user-words
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\IronPdfInterop.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\liblept-5.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\libtesseract-5.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\osd.traineddata
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\pdf.ttf
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\pdf.ttx
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\Tesseract.Native.deployment.json
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\eng.base.traineddata
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\eng.best.traineddata
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\eng.fast.traineddata
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\eng.user-patterns
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\eng.user-words
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\IronPdfInterop.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\liblept-5.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\libtesseract-5.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\osd.traineddata
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\pdf.ttf
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\pdf.ttx
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\Tesseract.Native.deployment.json
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\x86\leptonica-1.82.0.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\x86\tesseract50.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\x64\leptonica-1.82.0.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\x64\tesseract50.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\x64\tesseract.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\x86\Tesseract.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\tessdata\configs\config.cfg
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\tessdata\eng.traineddata
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\tessdata\equ.traineddata
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\tessdata\osd.traineddata
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\tessdata\pdf.ttf
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\tessdata\pdf.ttx
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\OcrData\Dutch.ocrdata
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\tessdata\eng.user-patterns
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\tessdata\eng.user-words
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\tessdata\nld.traineddata
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\tessdata\jaxb-api-2.3.1.jar
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\tessdata\piccolo2d-core-3.0.1.jar
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\tessdata\piccolo2d-extras-3.0.1.jar
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\tessdata\ScrollView.jar
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\Studentenpas OCR Systeem.exe.config
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\Studentenpas OCR Systeem.exe
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\Studentenpas OCR Systeem.pdb
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\BitMiracle.LibTiff.NET.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\Emgu.CV.Bitmap.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\Emgu.CV.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\IronOcr.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\IronSoftware.Drawing.Common.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\Microsoft.Dynamic.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\Microsoft.Scripting.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\Patagames.Ocr.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\SixLabors.Fonts.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\SixLabors.ImageSharp.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\SixLabors.ImageSharp.Drawing.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\System.Buffers.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\System.Drawing.Common.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\System.Memory.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\System.Numerics.Vectors.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\System.ValueTuple.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\Tesseract.dll
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\BitMiracle.LibTiff.NET.xml
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\Emgu.CV.xml
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\Emgu.CV.Bitmap.xml
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\IronOcr.xml
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\IronSoftware.Drawing.Common.pdb
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\IronSoftware.Drawing.Common.xml
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\Microsoft.Dynamic.xml
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\Microsoft.Scripting.xml
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\Patagames.Ocr.xml
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\SixLabors.ImageSharp.xml
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\System.Buffers.xml
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\System.Drawing.Common.xml
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\System.Memory.xml
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\System.Numerics.Vectors.xml
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\System.ValueTuple.xml
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\obj\Debug\Id_scanner.csproj.AssemblyReference.cache
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\obj\Debug\Id_scanner.csproj.SuggestedBindingRedirects.cache
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\obj\Debug\Id_scanner.Login.resources
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\obj\Debug\Id_scanner.Properties.Resources.resources
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\obj\Debug\Id_scanner.Splash_Screen.resources
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\obj\Debug\Id_scanner.UserInterface.resources
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\obj\Debug\Id_scanner.csproj.GenerateResource.cache
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\obj\Debug\Id_scanner.csproj.CoreCompileInputs.cache
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\obj\Debug\Id_scanner.csproj.CopyComplete
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\obj\Debug\Studentenpas OCR Systeem.exe
+C:\ID-Scanner (AdeKUS)\studentIDscanner_v2\studentenpas scanner Official - Copy\obj\Debug\Studentenpas OCR Systeem.pdb
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\eng.base.traineddata
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\eng.best.traineddata
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\eng.fast.traineddata
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\eng.user-patterns
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\eng.user-words
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\IronPdfInterop.dll
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\liblept-5.dll
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\libtesseract-5.dll
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\osd.traineddata
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\pdf.ttf
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\pdf.ttx
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x64\native\Tesseract.Native.deployment.json
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\eng.base.traineddata
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\eng.best.traineddata
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\eng.fast.traineddata
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\eng.user-patterns
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\eng.user-words
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\IronPdfInterop.dll
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\liblept-5.dll
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\libtesseract-5.dll
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\osd.traineddata
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\pdf.ttf
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\pdf.ttx
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\runtimes\win-x86\native\Tesseract.Native.deployment.json
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\x86\leptonica-1.82.0.dll
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\x86\tesseract50.dll
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\x64\leptonica-1.82.0.dll
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\x64\tesseract50.dll
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\x64\tesseract.dll
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\x86\Tesseract.dll
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\tessdata\configs\config.cfg
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\tessdata\eng.traineddata
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\tessdata\equ.traineddata
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\tessdata\osd.traineddata
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\tessdata\pdf.ttf
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\tessdata\pdf.ttx
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\OcrData\Dutch.ocrdata
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\tessdata\eng.user-patterns
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\tessdata\eng.user-words
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\tessdata\nld.traineddata
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\tessdata\jaxb-api-2.3.1.jar
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\tessdata\piccolo2d-core-3.0.1.jar
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\tessdata\piccolo2d-extras-3.0.1.jar
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\tessdata\ScrollView.jar
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\Studentenpas OCR Systeem.exe.config
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\Studentenpas OCR Systeem.exe
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\Studentenpas OCR Systeem.pdb
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\BitMiracle.LibTiff.NET.dll
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\Emgu.CV.Bitmap.dll
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\Emgu.CV.dll
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\IronOcr.dll
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\IronSoftware.Drawing.Common.dll
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\Microsoft.Dynamic.dll
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\Microsoft.Scripting.dll
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\Patagames.Ocr.dll
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\SixLabors.Fonts.dll
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\SixLabors.ImageSharp.dll
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\SixLabors.ImageSharp.Drawing.dll
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\System.Buffers.dll
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\System.Drawing.Common.dll
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\System.Memory.dll
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\System.Numerics.Vectors.dll
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\System.ValueTuple.dll
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\Tesseract.dll
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\BitMiracle.LibTiff.NET.xml
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\Emgu.CV.xml
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\Emgu.CV.Bitmap.xml
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\IronOcr.xml
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\IronSoftware.Drawing.Common.pdb
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\IronSoftware.Drawing.Common.xml
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\Microsoft.Dynamic.xml
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\Microsoft.Scripting.xml
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\Patagames.Ocr.xml
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\SixLabors.ImageSharp.xml
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\System.Buffers.xml
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\System.Drawing.Common.xml
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\System.Memory.xml
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\System.Numerics.Vectors.xml
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\bin\Debug\System.ValueTuple.xml
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\obj\Debug\Id_scanner.csproj.AssemblyReference.cache
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\obj\Debug\Id_scanner.csproj.SuggestedBindingRedirects.cache
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\obj\Debug\Id_scanner.Login.resources
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\obj\Debug\Id_scanner.Properties.Resources.resources
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\obj\Debug\Id_scanner.Splash_Screen.resources
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\obj\Debug\Id_scanner.UserInterface.resources
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\obj\Debug\Id_scanner.csproj.GenerateResource.cache
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\obj\Debug\Id_scanner.csproj.CoreCompileInputs.cache
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\obj\Debug\Id_scanner.csproj.CopyComplete
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\obj\Debug\Studentenpas OCR Systeem.exe
+C:\Mijn Folder\studentIDscanner_vFinal\studentIDscanner_v2\studentenpas scanner Official - Copy\obj\Debug\Studentenpas OCR Systeem.pdb

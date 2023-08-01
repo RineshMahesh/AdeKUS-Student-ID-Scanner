@@ -1,0 +1,944 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Alternet.Scripter.IronPython.v9</name>
+    </assembly>
+    <members>
+        <member name="T:Alternet.Scripter.IronPython.IronPythonScriptHost">
+            <summary>
+            Provides properties and methods to support script engine functionality based on <c>System.CodeDom.Compiler</c> technology.
+            </summary>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.IronPythonScriptHost.#ctor(Alternet.Scripter.IronPython.IScriptRun)">
+            <summary>
+            Initializes a new instance of the <c>CodeDomScriptHost</c> class with specified script runner.
+            </summary>
+            <param name="scriptRun">Specifies object that implements <c>IScriptRun</c> interface for this new instance.</param>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.IronPythonScriptHost.RunnableScript">
+            <summary>
+            Returns compiled script assembly.
+            </summary>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.IronPythonScriptHost.Reset">
+            <summary>
+            Removes the script engine from the running state and disconnects automatically bound event handlers.
+            </summary>
+        </member>
+        <member name="T:Alternet.Scripter.IronPython.License.ScripterLicenseProvider">
+            <summary>
+            Implements license provider for <c>ScriptRun</c>.
+            </summary>
+        </member>
+        <member name="T:Alternet.Scripter.IronPython.FileRunnableScript">
+            <summary>
+            Represents compiled script assembly stored in the file system.
+            </summary>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.FileRunnableScript.#ctor(Alternet.Scripter.IronPython.IScriptRun,System.Collections.Generic.IEnumerable{System.String},System.String)">
+            <summary>
+            Initializes a new instance of the <c>FileRunnableScript</c> class with specified list of files.
+            </summary>
+            <param name="filePaths">List of files suitable for this script.</param>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.FileRunnableScript.FilePaths">
+            <summary>
+            Gets list of compiled files.
+            </summary>
+        </member>
+        <member name="T:Alternet.Scripter.IronPython.InMemoryRunnableScript">
+            <summary>
+            Represents compiled script assembly stored in memory.
+            </summary>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.InMemoryRunnableScript.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the <c>InMemoryRunnableScript</c> class with specified parameters.
+            </summary>
+            <param name="scriptCode">Script code to compile.</param>
+            <param name="sourceMap">SourceMap for this new instance.</param>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.InMemoryRunnableScript.ScriptCode">
+            <summary>
+            Gets a script code to compile.
+            </summary>
+        </member>
+        <member name="T:Alternet.Scripter.IronPython.RunnableScript">
+            <summary>
+            A base class represents compiled script assembly. This class is abstract.
+            </summary>
+        </member>
+        <member name="T:Alternet.Scripter.IronPython.ScriptConsts">
+            <summary>
+            Contains constants related to Scripter component.
+            </summary>
+        </member>
+        <member name="T:Alternet.Scripter.IronPython.ScriptGlobalItem">
+            <summary>
+            Describes a global object from the script.
+            </summary>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.ScriptGlobalItem.#ctor(System.String,System.Object)">
+            <summary>
+            Initializes a new instance of the <c>ScriptItem</c> class with specified parameters.
+            </summary>
+            <param name="name">Specifies name of the new instance.</param>
+            <param name="obj">Specifies object the new instance should contain.</param>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.ScriptGlobalItem.Name">
+            <summary>
+            Gets or sets name of this item.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.ScriptGlobalItem.Obj">
+            <summary>
+            Gets or sets object contained by this item.
+            </summary>
+        </member>
+        <member name="T:Alternet.Scripter.IronPython.ScriptRun">
+            <summary>
+            Represents runner for script engine.
+            </summary>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.ScriptRun.#ctor(System.ComponentModel.IContainer)">
+            <summary>
+            Initializes a new instance of the <c>ScriptRun</c> class with specified parameters.
+            </summary>
+            <param name="container">Specifies container of this new instance.</param>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.ScriptRun.#ctor">
+            <summary>
+            Initializes a new instance of the <c>ScriptRun</c> class with default settings.
+            </summary>
+        </member>
+        <member name="E:Alternet.Scripter.IronPython.ScriptRun.ScriptCompiled">
+            <summary>
+            Occurs when the script engine running successfully.
+            </summary>
+        </member>
+        <member name="E:Alternet.Scripter.IronPython.ScriptRun.ScriptError">
+            <summary>
+            Occurs when the script engine running is failed.
+            </summary>
+        </member>
+        <member name="E:Alternet.Scripter.IronPython.ScriptRun.ScriptReset">
+            <summary>
+            Occurs when the script engine is reset.
+            </summary>
+        </member>
+        <member name="E:Alternet.Scripter.IronPython.ScriptRun.ScriptExecuted">
+            <summary>
+            Occurs when script engine executes the script.
+            </summary>
+        </member>
+        <member name="E:Alternet.Scripter.IronPython.ScriptRun.ReferenceResolve">
+            <summary>
+            Occurs when assembly reference needs to be resolved.
+            </summary>
+        </member>
+        <member name="E:Alternet.Scripter.IronPython.ScriptRun.FileLoad">
+            <summary>
+            Occurs when script code is loaded from file.
+            </summary>
+        </member>
+        <member name="E:Alternet.Scripter.IronPython.ScriptRun.ScriptRunning">
+            <summary>
+            Occurs when script engine tries to running script.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.ScriptRun.ScriptHost">
+            <summary>
+            Returns object that implements <c>IScriptHost</c> interface for this runner.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.ScriptRun.ScriptSource">
+            <summary>
+            Gets source of the script to execute.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.ScriptRun.CaseSensitive">
+            <summary>
+            When implemented by a class, indicates whether script language is case sensitive.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.ScriptRun.Compiled">
+            <summary>
+            Gets boolean value indicating that script has been compiled and ready to be executed.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.ScriptRun.GlobalItems">
+            <summary>
+            Gets or sets a script items collection attached to this runner.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.ScriptRun.Executed">
+            <summary>
+            Gets boolean value indicating that script has been compiled and ready to be executed.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.ScriptRun.TypeDefinitionsSearchPaths">
+            <summary>
+            Gets or sets list of search directories to look for type definitions.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.ScriptRun.LoadUserTypeDefinitions">
+            <summary>
+            Gets or sets whether users type definitions should be loaded.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.ScriptRun.AutoGenerateTypeDefinitions">
+            <summary>
+            Gets or sets whether project should automatically generate type definitions if possible.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.ScriptRun.ProjectDirectory">
+            <summary>
+            Gets or sets root project directory.
+            </summary>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.ScriptRun.OnScriptCompiled">
+            <summary>
+            Invokes <c>ScriptCompiled</c> event handler.
+            </summary>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.ScriptRun.OnScriptRunning">
+            <summary>
+            Invokes <c>ScriptRunning</c> event handler.
+            </summary>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.ScriptRun.OnScriptExecuted">
+            <summary>
+            Invokes <c>ScriptRunning</c> event handler.
+            </summary>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.ScriptRun.OnScriptError(Alternet.Scripter.ScriptErrorEventArgs)">
+            <summary>
+            Invokes <c>ScriptError</c> event handler.
+            </summary>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.ScriptRun.OnScriptReset">
+            <summary>
+            Invokes <c>ScriptReset</c> event handler.
+            </summary>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.ScriptRun.OnFileLoad(System.String)">
+            <summary>
+            Invokes <c>FileLoad</c> event handler.
+            </summary>
+            <param name="fileName"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.ScriptRun.Run">
+            <summary>
+            Executes script starting from the main entry point.
+            </summary>
+            <returns>Return value of the script being executed.</returns>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.ScriptRun.RunProcess(System.String[],System.Boolean)">
+            <summary>
+            Executes script starting from the main entry point in stand-alone process
+            </summary>
+            <param name="args">Specifies main method parameters.</param>
+            <param name="wait">Specifies if calling application should wait for process termination</param>
+            <returns>Return process exit code.</returns>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.ScriptRun.RunAsync(System.Threading.CancellationToken)">
+            <summary>
+            Executes script asynchronously starting from the main entry point.
+            </summary>
+            <param name="cancellationToken">Cancellation token.</param>
+            <returns>Return value of the script being executed.</returns>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.ScriptRun.RunFunction(System.String,System.Object[])">
+            <summary>
+            Executes specified function.
+            </summary>
+            <param name="function">Name of function to execute.</param>
+            <returns>An object containing return value of the executed function.</returns>
+            <param name="args">Array of function's parameters.</param>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.ScriptRun.RunFunctionAsync(System.String,System.Object[],System.Threading.CancellationToken)">
+            <summary>
+            Executes specified function asynchronously.
+            </summary>
+            <param name="function">Name of function to execute.</param>
+            <returns>An object containing return value of the executed function.</returns>
+            <param name="args">Array of function's parameters.</param>
+            <param name="cancellationToken">Cancellation token.</param>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.ScriptRun.EvaluateExpression(System.String)">
+            <summary>
+            Evaluates specified expression.
+            </summary>
+            <param name="expression">Expression to evaluate.</param>
+            <returns>An object containing return value of the expression being evaluated.</returns>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.ScriptRun.EvaluateExpressionAsync(System.String,System.Threading.CancellationToken)">
+            <summary>
+            Evaluates specified expression asynchronously.
+            </summary>
+            <param name="expression">Expression to execute.</param>
+            <param name="cancellationToken">Cancellation token.</param>
+            <returns>An object containing return value of the expression being evaluated.</returns>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.ScriptRun.LoadScript(System.String)">
+            <summary>
+            Load script from specified file.
+            </summary>
+            <param name="fileName">File name contains script to load.</param>
+            <returns>String representation of loaded script.</returns>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.ScriptRun.Compile">
+            <summary>
+            Initializes script engine and compiles the script.
+            </summary>
+            <returns>True if succeed, otherwise false.</returns>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.ScriptRun.Reset">
+            <summary>
+             Resets the script engine and releases all resources.
+            </summary>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.ScriptRun.CreateScriptHost">
+            <summary>
+            Creates a new <c>IScriptHost</c> object with appropriate characteristics.
+            </summary>
+            <returns>Created <c>IScriptHost</c> object.</returns>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.ScriptRun.OnResolveReference(System.String,System.String@)">
+            <summary>
+            Invokes <c>ReferenceResolve</c> event handler.
+            </summary>
+            <param name="reference">Reference to resolve.</param>
+            <param name="assemblyLocation">Path to suitable assembly.</param>
+            <returns>true if reference was resolved otherwise false</returns>
+        </member>
+        <member name="T:Alternet.Scripter.IronPython.ScriptSource">
+            <summary>
+            Provides methods and properties to work with script text, files or projects.
+            </summary>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.ScriptSource.#ctor(Alternet.Scripter.IronPython.IScriptRun)">
+            <summary>
+            Initializes a new instance of the <c>ScriptSource</c> class with specified script runner.
+            </summary>
+            <param name="scriptRun">Specifies object that implements <c>IScriptRun</c> interface for this new instance.</param>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.ScriptSource.ProjectFileName">
+            <summary>
+            Gets a file name of the Visual Studio project containing script files to execute.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.ScriptSource.ProjectName">
+            <summary>
+            Gets or sets name of the Visual Studio project containing script files to execute.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.ScriptSource.StartupFile">
+            <summary>
+            When implemented by a class, gets or sets startup Python script file to be executed on script run.
+            When this property is set, the only file that is executed is the StartupFile.
+            When this property is not set, all the script files are executed in order they are specified.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.ScriptSource.Files">
+            <summary>
+            Gets list of files containing script to execute.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.ScriptSource.FrameworkPath">
+            <summary>
+            Gets location of .NET Framework assemblies.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.ScriptSource.ReferencesSearchPaths">
+            <summary>
+            Gets list of search directories to look for assembly references.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.ScriptSource.ModulesSearchPaths">
+            <summary>
+            Gets list of search directories to look for Python modules.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.ScriptSource.References">
+            <summary>
+            Gets list of external assemblies referenced from the script.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.ScriptSource.ReferencedFrameworks">
+            <summary>
+            Gets or sets a combination of referenced library frameworks.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.ScriptSource.Imports">
+            <summary>
+            Gets list of namespaces to be used in the script.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.ScriptSource.ScriptFile">
+            <summary>
+            Gets single script file to execute.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.ScriptSource.ScriptCode">
+            <summary>
+            Gets script code to execute.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.ScriptSource.Expression">
+            <summary>
+            Gets expression to evaluate.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.ScriptSource.HasProject">
+            <summary>
+            Returns boolean value indicating whether <c>ScriptSource</c> is associated with the project.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.ScriptSource.HasScriptFile">
+            <summary>
+            Returns boolean value indicating whether <c>ScriptSource</c> contains script file to execute.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.ScriptSource.HasScriptCode">
+            <summary>
+            Returns boolean value indicating whether <c>ScriptSource</c> contains script code to execute.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.ScriptSource.HasExpression">
+            <summary>
+            Returns boolean value indicating whether <c>ScriptSource</c> contains expression to evaluate.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.ScriptSource.Changed">
+            <summary>
+            Gets or sets boolean value indicating if script source has been modified since last compilation.
+            </summary>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.ScriptSource.Reset">
+            <summary>
+            Clears script source.
+            </summary>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.ScriptSource.FromScriptProject(System.String)">
+            <summary>
+            Loads script source from the Visual Studio project.
+            </summary>
+            <param name="projectFileName">Project file name to load script.</param>
+            <returns>Modified IScrptSource instance</returns>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.ScriptSource.FromScriptFile(System.String)">
+            <summary>
+            Loads script source from the script file.
+            </summary>
+            <param name="fileName">File Name to load the script.</param>
+            <returns>Modified IScrptSource instance</returns>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.ScriptSource.FromScriptCode(System.String)">
+            <summary>
+            Loads script source from the script code.
+            </summary>
+            <param name="scriptCode">Script code to execute.</param>
+            <returns>Modified IScrptSource instance</returns>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.ScriptSource.FromScriptCode(System.String,System.String)">
+            <summary>
+            Loads script source from the script code.
+            </summary>
+            <param name="scriptCode">Script code to execute.</param>
+            <param name="fileName">Specifis name if the file containing script code.</param>
+            <returns>Modified IScrptSource instance</returns>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.ScriptSource.FromExpression(System.String)">
+            <summary>
+            Loads script source from the expression.
+            </summary>
+            <param name="expression">Expression to evaluate.</param>
+            <returns>Modified IScrptSource instance</returns>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.ScriptSource.GetLastModifiedDate(System.String)">
+            <summary>
+            Gets file date time when script source was compiled.
+            </summary>
+            <param name="fileName">FileName to check last modified date.</param>
+            <returns>File date of the given file at the time it was compiled.</returns>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.ScriptSource.HasBeenModified(Alternet.Scripter.IronPython.IScriptSource)">
+            <summary>
+            Compares file modification dates against to other script source.
+            </summary>
+            <param name="other">IScriptSource to compare.</param>
+            <returns>True, if source has been changed since last compilation; otherwise false.</returns>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.ScriptSource.Equals(Alternet.Scripter.IronPython.IScriptSource)">
+            <summary>
+            Determines whether the specified <c>IScriptSource</c> is equal to the current <c>ScriptSource</c>.
+            </summary>
+            <param name="other">The <c>IScriptSource</c> to compare with the current source.</param>
+            <returns>True if the specified source is equal to the current source; otherwise, false.</returns>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.ScriptSource.Clone">
+            <summary>
+            Creates a new object that is a copy of the current <c>ScriptSource</c> object.
+            </summary>
+            <returns>A new instance of ScriptSource that is the memberwise clone of the current ScriptSource object.</returns>
+        </member>
+        <member name="T:Alternet.Scripter.IronPython.IScriptSource">
+            <summary>
+            Represents methods and properties to work with script text, files or projects.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.IScriptSource.ProjectName">
+            <summary>
+            When implemented by a class, gets or sets name of the Visual Studio project containing script files to execute.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.IScriptSource.StartupFile">
+            <summary>
+            When implemented by a class, gets or sets startup Python script file to be executed on script run.
+            When this property is set, the only file that is executed is the StartupFile.
+            When this property is not set, all the script files are executed in order they are specified.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.IScriptSource.FrameworkPath">
+            <summary>
+            When implemented by a class, gets location of .NET Framework assemblies.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.IScriptSource.Files">
+            <summary>
+            When implemented by a class, gets list of files containing script to execute.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.IScriptSource.References">
+            <summary>
+            When implemented by a class, gets list of external assemblies referenced from the script.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.IScriptSource.ReferencedFrameworks">
+            <summary>
+            Gets or sets a combination of referenced library frameworks.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.IScriptSource.Imports">
+            <summary>
+            When implemented by a class, gets list of namespaces to be used in the script.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.IScriptSource.ReferencesSearchPaths">
+            <summary>
+            When implemented by a class, gets list of search directories to look for assembly references.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.IScriptSource.ModulesSearchPaths">
+            <summary>
+            When implemented by a class, gets list of search directories to look for Python modules.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.IScriptSource.Changed">
+            <summary>
+            When implemented by a class, gets or sets boolean value indicating if script source has been modified since last compilation.
+            </summary>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.IScriptSource.Reset">
+            <summary>
+            When implemented by a class, clears script source.
+            </summary>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.IScriptSource.FromScriptProject(System.String)">
+            <summary>
+            When implemented by a class, loads script source from the IronPython project.
+            </summary>
+            <param name="projectFileName">Project file name to load script.</param>
+            <returns>Modified IScrptSource instance</returns>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.IScriptSource.FromScriptFile(System.String)">
+            <summary>
+            When implemented by a class, loads script source from the script file.
+            </summary>
+            <param name="fileName">File Name to load the script.</param>
+            <returns>Modified IScrptSource instance</returns>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.IScriptSource.FromScriptCode(System.String)">
+            <summary>
+            When implemented by a class, loads script source from the script code.
+            </summary>
+            <param name="scriptCode">Script code to execute.</param>
+            <returns>Modified IScrptSource instance</returns>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.IScriptSource.FromScriptCode(System.String,System.String)">
+            <summary>
+            When implemented by a class, loads script source from the script code.
+            </summary>
+            <param name="scriptCode">Script code to execute.</param>
+            <param name="fileName">Specifis name if the file containing script code.</param>
+            <returns>Modified IScrptSource instance</returns>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.IScriptSource.FromExpression(System.String)">
+            <summary>
+            When implemented by a class, loads script source from the expression.
+            </summary>
+            <param name="expression">Expression to evaluate.</param>
+            <returns>Modified IScrptSource instance</returns>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.IScriptSource.GetLastModifiedDate(System.String)">
+            <summary>
+            When implemented by a class, gets file date time when script source was compiled.
+            </summary>
+            <param name="fileName">FileName to check last modified date.</param>
+            <returns>File date of the given file at the time it was compiled.</returns>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.IScriptSource.HasBeenModified(Alternet.Scripter.IronPython.IScriptSource)">
+            <summary>
+            When implemented by a class, compares file modification dates against to other script source.
+            </summary>
+            <param name="other">IScriptSource to compare.</param>
+            <returns>True, if source has been changed since last compilation; otherwise false.</returns>
+        </member>
+        <member name="T:Alternet.Scripter.IronPython.ResolveReferenceEventArgs">
+            <summary>
+            Provides data for the <c>IScriptRun.ReferenceResolve</c> event.
+            </summary>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.ResolveReferenceEventArgs.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the <c>ResolveReferenceEventArgs</c> class with specified reference.
+            </summary>
+            <param name="reference">Reference to resolve.</param>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.ResolveReferenceEventArgs.Handled">
+            <summary>
+            Gets or sets a value indicating whether the ReferenceResolve event was handled.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.ResolveReferenceEventArgs.Reference">
+            <summary>
+            Gets or sets reference to be resolved.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.ResolveReferenceEventArgs.AssemblyLocation">
+            <summary>
+            Gets or sets suitable Assembly.
+            </summary>
+        </member>
+        <member name="T:Alternet.Scripter.IronPython.ScriptHost">
+            <summary>
+            Provides a base class for script execution. This class is abstract.
+            </summary>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.ScriptHost.#ctor(Alternet.Scripter.IronPython.IScriptRun)">
+            <summary>
+            Initializes a new instance of <c>ScriptHost</c> with specified script runner.
+            </summary>
+            <param name="scriptRun"></param>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.ScriptHost.Finalize">
+            <summary>
+            Destroys the instance of the <c>ScriptHost</c> class.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.ScriptHost.ScriptRun">
+            <summary>
+            Gets <c>IScriptRun</c> associated this script host.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.ScriptHost.CompilerErrors">
+            <summary>
+            Gets list of compiler errors associated with the script being executed.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.ScriptHost.CompileFailed">
+            <summary>
+            Gets or sets boolean value indicating unsuccessful script compilation.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.ScriptHost.ModulesDirectoryPath">
+            <summary>
+            Gets or sets path for compiled script assemblies.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.ScriptHost.Compiled">
+            <summary>
+            Gets boolean value indicating that script has been compiled and ready to be executed.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.ScriptHost.SkipSyntaxErrorCheck">
+            <summary>
+            Gets or sets a boolean value indicating whether to skip the script syntax error check.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.ScriptHost.ExecutableModulePath">
+            <summary>
+            Gets script assembly path.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.ScriptHost.OutputFileName">
+            <summary>
+            Gets script assembly file name.
+            </summary>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.ScriptHost.Compile">
+            <summary>
+            Initializes script engine and compiles the script.
+            </summary>
+            <returns>True if succeed, otherwise false.</returns>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.ScriptHost.Reset">
+            <summary>
+            Removes the script engine from the running state and disconnects automatically bound event handlers.
+            </summary>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.ScriptHost.Run">
+            <summary>
+            Executes script starting from the main entry point.
+            </summary>
+            <returns>Return value of the script being executed.</returns>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.ScriptHost.RunProcess(System.String[],System.Boolean)">
+            <summary>
+            Executes script starting from the main entry point in standalone process.
+            </summary>
+            <param name="args">Specifies main method parameters.</param>
+            <param name="wait">Specifies if calling application should wait for process termination</param>
+            <returns>Return process exit code.</returns>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.ScriptHost.RunAsync(System.Threading.CancellationToken)">
+            <summary>
+            Executes script asynchronously starting from the main entry point.
+            </summary>
+            <param name="cancellationToken">Cancellation token.</param>
+            <returns>Return value of the script being executed.</returns>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.ScriptHost.RunFunction(System.String,System.Object[])">
+            <summary>
+            Executes specified function.
+            </summary>
+            <param name="functionName">Name of function to execute.</param>
+            <returns>An object containing return value of the executed function.</returns>
+            <param name="args">Array of function's parameters.</param>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.ScriptHost.RunFunctionAsync(System.String,System.Object[],System.Threading.CancellationToken)">
+            <summary>
+            Executes specified function asynchronously.
+            </summary>
+            <param name="function">Name of function to execute.</param>
+            <returns>An object containing return value of the executed function.</returns>
+            <param name="args">Array of function's parameters.</param>
+            <param name="cancellationToken">Cancellation token.</param>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.ScriptHost.EvaluateExpression(System.String)">
+            <summary>
+            Evaluates specified expression.
+            </summary>
+            <param name="expression">Expression to evaluate.</param>
+            <returns>An object containing return value of the expression being evaluated.</returns>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.ScriptHost.EvaluateExpressionAsync(System.String,System.Threading.CancellationToken)">
+            <summary>
+            Evaluates specified expression asynchronously.
+            </summary>
+            <param name="expression">Expression to execute.</param>
+            <param name="cancellationToken">Cancellation token.</param>
+            <returns>An object containing return value of the expression being evaluated.</returns>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.ScriptHost.Dispose">
+            <summary>
+            Disposes this <c>ScriptHost</c> and frees resources associated with it.
+            </summary>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.ScriptHost.RunProcessCore(Alternet.Scripter.IronPython.IScriptRun,System.String,System.Object[],System.Boolean)">
+            <summary>
+            Executes script starting from the main entry point in standalone process.
+            </summary>
+            <param name="scriptRun"><c>IScriptRun</c> associated this script method.</param>
+            <param name="assemblyLocation">Fully qualified name of application to execute.</param>
+            <param name="args">Specifies main method parameters.</param>
+            <param name="wait">Specifies if calling application should wait for process termination</param>
+            <returns>Return process exit code.</returns>
+        </member>
+        <member name="T:Alternet.Scripter.IronPython.IScriptHost">
+            <summary>
+            Represents methods and properties declaration to support a script engine functionality.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.IScriptHost.SkipSyntaxErrorCheck">
+            <summary>
+            When implemented by a class, gets or sets a boolean value indicating whether to skip the script syntax error check.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.IScriptHost.OutputFileName">
+            <summary>
+            When implemented by a class, gets script assembly file name.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.IScriptHost.Compiled">
+            <summary>
+            When implemented by a class, gets boolean value indicating that script has been compiled and ready to be executed.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.IScriptHost.CompileFailed">
+            <summary>
+            When implemented by a class, gets or sets boolean value indicating unsuccessful script compilation.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.IScriptHost.CompilerErrors">
+            <summary>
+            When implemented by a class, gets list of compiler errors associated with the script being executed.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.IScriptHost.ModulesDirectoryPath">
+            <summary>
+            When implemented by a class, gets or sets path for compiled script assemblies.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.IScriptHost.ScriptRun">
+            <summary>
+            When implemented by a class, gets <c>IScriptRun</c> associated this script host.
+            </summary>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.IScriptHost.ResolveReferences(System.Collections.Generic.IList{System.String})">
+            <summary>
+            When implemented by a class, returns list of assembly references used by the script.
+            </summary>
+            <param name="unresolvedReferences">Contains list of references that can not be resolved.</param>
+            <returns>List of assembly references.</returns>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.IScriptHost.Compile">
+            <summary>
+            When implemented by a class, initializes script engine and compiles the script.
+            </summary>
+            <returns>True if succeed, otherwise false.</returns>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.IScriptHost.EvaluateExpression(System.String)">
+            <summary>
+            When implemented by a class, evaluates specified expression.
+            </summary>
+            <param name="expression">Expression to evaluate.</param>
+            <returns>An object containing return value of the expression being evaluated.</returns>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.IScriptHost.EvaluateExpressionAsync(System.String,System.Threading.CancellationToken)">
+            <summary>
+            When implemented by a class, evaluates specified expression asynchronously.
+            </summary>
+            <param name="expression">Expression to execute.</param>
+            <param name="cancellationToken">Cancellation token.</param>
+            <returns>An object containing return value of the expression being evaluated.</returns>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.IScriptHost.Reset">
+            <summary>
+            When implemented by a class, closes the script engine and releases all resources.
+            </summary>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.IScriptHost.Run">
+            <summary>
+            When implemented by a class, executes script starting from the main entry point.
+            </summary>
+            <returns>Return value of the script being executed.</returns>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.IScriptHost.RunProcess(System.String[],System.Boolean)">
+            <summary>
+            When implemented by a class, executes script starting from the main entry point in standalone process.
+            </summary>
+            <param name="args">Specifies main method parameters.</param>
+            <param name="wait">Specifies if calling application should wait for process termination</param>
+            <returns>Return process exit code.</returns>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.IScriptHost.RunAsync(System.Threading.CancellationToken)">
+            <summary>
+            When implemented by a class, executes script asynchronously starting from the main entry point.
+            </summary>
+            <param name="cancellationToken">Cancellation token.</param>
+            <returns>Return value of the script being executed.</returns>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.IScriptHost.RunFunction(System.String,System.Object[])">
+            <summary>
+            When implemented by a class, executes specified function.
+            </summary>
+            <param name="functionName">Name of function to execute.</param>
+            <returns>An object containing return value of the executed function.</returns>
+            <param name="args">Array of functions's parameters.</param>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.IScriptHost.RunFunctionAsync(System.String,System.Object[],System.Threading.CancellationToken)">
+            <summary>
+            When implemented by a class, executes specified function asynchronously.
+            </summary>
+            <param name="functionName">Name of function to execute.</param>
+            <returns>An object containing return value of the executed function.</returns>
+            <param name="args">Array of function's parameters.</param>
+            <param name="cancellationToken">Cancellation token.</param>
+        </member>
+        <member name="T:Alternet.Scripter.IronPython.IScriptRun">
+            <summary>
+            Represents methods and properties declaration to describe runner for script engine.
+            </summary>
+        </member>
+        <member name="E:Alternet.Scripter.IronPython.IScriptRun.ReferenceResolve">
+            <summary>
+            When implemented by a class, occurs when script code is loaded from file.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.IScriptRun.ScriptHost">
+            <summary>
+            When implemented by a class, returns object that implements <c>IScriptHost</c> interface for this runner.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.IScriptRun.ScriptSource">
+            <summary>
+            When implemented by a class, gets source of the script to execute.
+            </summary>
+        </member>
+        <member name="P:Alternet.Scripter.IronPython.IScriptRun.GlobalItems">
+            <summary>
+            When implemented by a class, gets or sets a script items collection attached to this runner.
+            </summary>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.IScriptRun.RunAsync(System.Threading.CancellationToken)">
+            <summary>
+            When implemented by a class, executes script asynchronously starting from the main entry point.
+            </summary>
+            <param name="cancellationToken">Cancellation token.</param>
+            <returns>Return value of the script being executed.</returns>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.IScriptRun.RunFunction(System.String,System.Object[])">
+            <summary>
+            When implemented by a class, executes specified function.
+            </summary>
+            <param name="function">Name of function to execute.</param>
+            <returns>An object containing return value of the executed function.</returns>
+            <param name="args">Array of function's parameters.</param>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.IScriptRun.RunFunctionAsync(System.String,System.Object[],System.Threading.CancellationToken)">
+            <summary>
+            When implemented by a class, executes specified function asynchronously.
+            </summary>
+            <param name="function">Name of function to execute.</param>
+            <returns>An object containing return value of the executed function.</returns>
+            <param name="args">Array of function's parameters.</param>
+            <param name="cancellationToken">Cancellation token.</param>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.IScriptRun.EvaluateExpressionAsync(System.String,System.Threading.CancellationToken)">
+            <summary>
+            When implemented by a class, evaluates specified expression asynchronously.
+            </summary>
+            <param name="expression">Expression to execute.</param>
+            <param name="cancellationToken">Cancellation token.</param>
+            <returns>An object containing return value of the expression being evaluated.</returns>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.IScriptRun.CreateScriptHost">
+            <summary>
+            When implemented by a class, creates a new <c>IScriptHost</c> object with appropriate characteristics.
+            </summary>
+            <returns>Created <c>IScriptHost</c> object.</returns>
+        </member>
+        <member name="M:Alternet.Scripter.IronPython.IScriptRun.OnResolveReference(System.String,System.String@)">
+            <summary>
+            When implemented by a class, invokes <c>ReferenceResolve</c> event handler.
+            </summary>
+            <param name="reference">Reference to resolve.</param>
+            <param name="assemblyLocation">Path to suitable assembly.</param>
+            <param name="assemblyImage">Image containing suitable assembly.</param>
+            <returns>true if reference was resolved otherwise false</returns>
+        </member>
+    </members>
+</doc>
